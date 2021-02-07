@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>TipTop</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <div id="header-menu">
+        <a href="https://tiptop.glitch.me/">
+        <img
+           id="logo"
+          src="https://cdn.glitch.com/2f1b18b8-1fab-4e73-a8bc-7175348de29f%2FScreenshot_2021-02-06_120401-removebg-preview.png?v=1612631288384">
+        <a href="https://tiptopabout.glitch.me/" class="header-link">About</a>
+        <a href="https://tiptopmission.glitch.me/" class="header-link">Mission</a>
+        <a href="https://tiptopapp.glitch.me/" class="header-link">App</a>
+        <a href="https://tiptopmeetheteam.glitch.me/" class="header-link">Meet the Team</a>
+        <a href="#section4" class="header-link">Contact</a>
+        <a href=" " class="header-link">Sign Up</a>
+       
+       
+  
+
+      </div>
+    </header>
+
+    <div id="section1">
+      <img src="https://cdn.glitch.com/a7f48528-d850-4fda-b24a-d2cf819ffbc9%2F1__1_-removebg-preview.png?v=1612676899986" width="300" height="500" alt="phone">
+
+    <h1 style="text-align:center;">TipTop</h1>
+   <h3 id="aboutus">At TipTop, we strive to combat COVID-19 issues that businesses are facing. 
+     The TipTop app efficiently supports businesses by allowing customers to find and donate to stores easily.
+     This app allows users to find small, local businesses through the search engine and can opt for a 
+     weekly/monthly/yearly donation rate. A customizable percentage of the customer’s earnings will be donated. 
+    </h3>
+    <h2>
+      Here's the process of the app:
+    </h2>
+      
+
+  <img id="cart" src="https://cdn.glitch.com/a7f48528-d850-4fda-b24a-d2cf819ffbc9%2Fshopping-cart.png?v=1612678230386" >
+    <img id="process"src="https://cdn.glitch.com/2f1b18b8-1fab-4e73-a8bc-7175348de29f%2FScreenshot_2021-02-06_212816-removebg-preview.png?v=1612665043557" align = bottom, right></a>
+    </div>
+
+    <div id="section2">
+  
+    
+  <img id="hand" src="https://cdn.glitch.com/2f1b18b8-1fab-4e73-a8bc-7175348de29f%2Fhandshake.png?v=1612655481840"></a>
+  <img id="comm"src="https://cdn.glitch.com/2f1b18b8-1fab-4e73-a8bc-7175348de29f%2Fcommunity.png?v=1612658082247"></a>
+  <h4>
+    Helping
+  </h4>
+  <p id="work">
+    Aiding small businesses that have significantly been impacted<br> by the COVID-19 pandemic. 
+    Many owners have lost a lot of their<br>earnings, which impacts their livelihoods and their 
+    ability to <br>provide themselves shelter and food. 
+    
+  </p>
+  <h4 id="love">
+    Community Love
+</h4>
+<p id="dove">
+  Showcase your communal love for members of your<br>community by donating 
+  and visiting local shops!<br> When customers provide donations, small business owners<br> 
+  feel less alone and feel as if they are receiving <br>even a small amount of help
+  from members<br> of their communities. 
+</p>
+<img id="covid"src="https://cdn.glitch.com/2f1b18b8-1fab-4e73-a8bc-7175348de29f%2Fcoronavirus%20(1).png?v=1612661141169"></a>
+<h4 id="covid2">
+  Fighting Causes<br> of COVID-19
+</h4>
+<p id= "hi">
+  Small business owners have been harshly<br> hit by COVID-19,<br> our app supplies them aid.
+</p>
+<img id="cash" src="https://cdn.glitch.com/a7f48528-d850-4fda-b24a-d2cf819ffbc9%2Fmoney.png?v=1612678593519"></a>
+<img id="tip" src="https://cdn.glitch.com/a7f48528-d850-4fda-b24a-d2cf819ffbc9%2F88.png?v=1612678823066"></a>
+  
+  
+  
+  
+  
+
+    </div>
+
+    <div id="section3">
+      <h1 id="how">
+        What you can do to help local businesses? 
+      </h1>
+      <h3 id="source1">
+        1. Shop at their stores. The TipTop app allows customers to search for their required items and nearby small businesses. 
+      </h3>
+      <h3 id="source2">
+        2. Donate. Many businesses have been greatly struggling to survive during this pandemic. If you shop at this store often or just want to contribute to the community in any way, 
+        please opt to our donation page on our app. Users can manually donate to these businesses 
+        or choose the monthly or yearly, automatic payment method.   
+      </h3>
+    
+            
+       
+    </div>
+
+    <footer>
+      <div id="section4"
+      
+      <h3 id="official">
+      </h3> © Copyright 2021 TipTop
+      
+      <a href="https://tiptopabout.glitch.me/" class="footer-link">About</a>
+      <a href="https://tiptopmission.glitch.me/" class="footer-link">Mission</a>
+      <a href="https://tiptopapp.glitch.me/" class="footer-link">App</a>
+      <a href="https://tiptopmeetheteam.glitch.me/" class="footer-link">Meet the Team</a>
+      <a href="" class="footer-link">Contact</a>
+      <h5 id="contact">
+        Email <u>tiptop@gmail.com</u> for business enquiries
+      </h5>
+</div>
+    </footer>
+  </body>
+</html>
